@@ -1,5 +1,6 @@
-** Please visit https://github.com/MaShisongLab/SingleCellGGM for the SingleCellGGM algorithm. **
-<font color=#F0F0F0>
+# Please visit https://github.com/MaShisongLab/SingleCellGGM for the SingleCellGGM algorithm. #
+
+~~ <font color=#F0F0F0>
 # SingleCellGGM
 
 **An algorithm for single-cell gene co-expression network analysis**
@@ -107,3 +108,5 @@ Wang Y, Zhang Y, Yu N, Li B, Gong J, Mei Y, Bao J, and Ma S. 2022. Decoding tran
 
 
 </font>
+
+~~
