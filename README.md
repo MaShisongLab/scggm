@@ -1,3 +1,5 @@
+** Please visit https://github.com/MaShisongLab/SingleCellGGM for the SingleCellGGM algorithm. **
+<font color=#F0F0F0>
 # SingleCellGGM
 
 **An algorithm for single-cell gene co-expression network analysis**
@@ -104,3 +106,4 @@ Ma S, Gong Q, and Bohnert HJ. 2007. An Arabidopsis gene network based on the gra
 Wang Y, Zhang Y, Yu N, Li B, Gong J, Mei Y, Bao J, and Ma S. 2022. Decoding transcriptional regulation via a human gene expression predictor. *submitted*
 
 
+</font>
